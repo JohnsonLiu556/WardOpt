@@ -1,0 +1,28 @@
+paths:
+  pred_csv: Monthly_Predictions.csv
+  cap_csv: Hospital_Capacity_Data.csv
+  alloc_csv: optimal_allocation.csv
+  dept_totals_csv: dept_totals_summary.csv
+  plots_dir: plots
+
+staffing:
+  patients_per_nurse:
+    Critical Care Adult: 2
+    G&A Adult: 5
+    G&A Paediatric: 4
+  nurse_cost: 1.0
+  shortage_penalty: 200.0
+  budget_mode: full_beds
+
+  overflow:
+    max_pct: 0.10      # each dept can open up to 10% extra beds
+    bed_cost: 20.0     # cost weight per overflow "bed" used (must be << shortage_penalty but >> nurse_cost)
+
+  nurse_costs:
+    Critical Care Adult: 1.5
+    G&A Adult: 1.0
+    G&A Paediatric: 1.2
+  min_service_rate:
+    Critical Care Adult: 0.95
+    G&A Adult: 0.85
+    G&A Paediatric: 0.90
