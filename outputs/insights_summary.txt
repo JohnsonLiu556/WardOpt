@@ -1,0 +1,25 @@
+Healthcare Resource Allocation — Insights
+
+Total demand:        99,824
+Total beds:          107,008
+Total served:        99,646
+Naive shortage:      1,166
+Optimal shortage:    177
+Reduction (patients):989  (84.8% ↓)
+
+By department (totals):
+  - G&A Paediatric: shortage 0 vs naive 58 (improve 58)
+  - Critical Care Adult: shortage 11 vs naive 88 (improve 77)
+  - G&A Adult: shortage 166 vs naive 1020 (improve 854)
+
+Top-10 trusts by improvement:
+  - Portsmouth Hospitals University National Health Service Trust: 50 patients fewer short
+  - Sheffield Teaching Hospitals NHS Foundation Trust: 43 patients fewer short
+  - South Tyneside and Sunderland NHS Foundation Trust: 41 patients fewer short
+  - Worcestershire Acute Hospitals NHS Trust: 38 patients fewer short
+  - Northumbria Healthcare NHS Foundation Trust: 36 patients fewer short
+  - South Tees Hospitals NHS Foundation Trust: 28 patients fewer short
+  - Sherwood Forest Hospitals NHS Foundation Trust: 27 patients fewer short
+  - Liverpool University Hospitals NHS Foundation Trust: 26 patients fewer short
+  - Norfolk and Norwich University Hospitals NHS Foundation Trust: 25 patients fewer short
+  - Somerset NHS Foundation Trust: 24 patients fewer short

@@ -1,0 +1,380 @@
+trust,dept,beds,pred_patients,nurses_alloc,served,shortage,solver,status
+Airedale NHS Foundation Trust,Critical Care Adult,7.0,5.333333333333333,3.0,6.0,0.0,OSQP,optimal
+Airedale NHS Foundation Trust,G&A Adult,357.0,348.6666666666667,70.0,350.0,0.0,OSQP,optimal
+Airedale NHS Foundation Trust,G&A Paediatric,15.0,11.666666666666666,3.0,12.0,0.0,OSQP,optimal
+Alder Hey Children's NHS Foundation Trust,G&A Paediatric,203.0,164.0,41.0,164.0,0.0,OSQP,optimal
+Ashford and St Peter's Hospitals NHS Foundation Trust,Critical Care Adult,11.0,9.666666666666666,5.0,10.0,0.0,OSQP,optimal
+Ashford and St Peter's Hospitals NHS Foundation Trust,G&A Adult,438.0,409.0,82.0,410.0,0.0,OSQP,optimal
+Ashford and St Peter's Hospitals NHS Foundation Trust,G&A Paediatric,20.0,14.666666666666666,4.0,16.0,0.0,OSQP,optimal
+"Barking, Havering and Redbridge University Hospitals NHS Trust",Critical Care Adult,57.0,47.333333333333336,24.0,48.0,0.0,OSQP,optimal
+"Barking, Havering and Redbridge University Hospitals NHS Trust",G&A Adult,992.0,861.6666666666666,172.0,860.0,1.6666666666666288,OSQP,optimal
+"Barking, Havering and Redbridge University Hospitals NHS Trust",G&A Paediatric,39.0,33.0,8.0,32.0,1.0,OSQP,optimal
+Barnsley Hospital NHS Foundation Trust,Critical Care Adult,25.0,18.0,9.0,18.0,0.0,OSQP,optimal
+Barnsley Hospital NHS Foundation Trust,G&A Adult,469.0,457.6666666666667,92.0,460.0,0.0,OSQP,optimal
+Barnsley Hospital NHS Foundation Trust,G&A Paediatric,8.0,5.0,1.0,4.0,1.0,OSQP,optimal
+Barts Health NHS Trust,Critical Care Adult,112.0,105.0,52.0,104.0,1.0,OSQP,optimal
+Barts Health NHS Trust,G&A Adult,1527.0,1395.3333333333333,279.0,1395.0,0.33333333333325754,OSQP,optimal
+Barts Health NHS Trust,G&A Paediatric,161.0,122.33333333333331,31.0,124.0,0.0,OSQP,optimal
+Bedfordshire Hospitals NHS Foundation Trust,Critical Care Adult,26.0,16.333333333333332,8.0,16.0,0.33333333333333215,OSQP,optimal
+Bedfordshire Hospitals NHS Foundation Trust,G&A Adult,980.0,955.6666666666666,191.0,955.0,0.6666666666666288,OSQP,optimal
+Bedfordshire Hospitals NHS Foundation Trust,G&A Paediatric,96.0,76.33333333333333,19.0,76.0,0.3333333333333286,OSQP,optimal
+Birmingham Women's and Children's NHS Foundation Trust,G&A Adult,24.0,16.0,3.0,15.0,1.0,OSQP,optimal
+Birmingham Women's and Children's NHS Foundation Trust,G&A Paediatric,255.0,213.33333333333337,53.0,212.0,1.3333333333333712,OSQP,optimal
+Blackpool Teaching Hospitals NHS Foundation Trust,Critical Care Adult,34.0,26.666666666666668,13.0,26.0,0.6666666666666679,OSQP,optimal
+Blackpool Teaching Hospitals NHS Foundation Trust,G&A Adult,725.0,710.6666666666666,142.0,710.0,0.6666666666666288,OSQP,optimal
+Blackpool Teaching Hospitals NHS Foundation Trust,G&A Paediatric,44.0,20.666666666666668,5.0,20.0,0.6666666666666679,OSQP,optimal
+Bolton NHS Foundation Trust,Critical Care Adult,18.0,13.333333333333334,7.0,14.0,0.0,OSQP,optimal
+Bolton NHS Foundation Trust,G&A Adult,551.0,518.0,104.0,520.0,0.0,OSQP,optimal
+Bolton NHS Foundation Trust,G&A Paediatric,60.0,38.0,10.0,40.0,0.0,OSQP,optimal
+Bradford Teaching Hospitals NHS Foundation Trust,Critical Care Adult,15.0,12.333333333333334,6.0,12.0,0.3333333333333339,OSQP,optimal
+Bradford Teaching Hospitals NHS Foundation Trust,G&A Adult,576.0,526.0,105.0,525.0,1.0,OSQP,optimal
+Bradford Teaching Hospitals NHS Foundation Trust,G&A Paediatric,44.0,32.666666666666664,8.0,32.0,0.6666666666666643,OSQP,optimal
+Buckinghamshire Healthcare NHS Trust,Critical Care Adult,18.0,13.0,6.0,12.0,1.0,OSQP,optimal
+Buckinghamshire Healthcare NHS Trust,G&A Adult,415.0,407.3333333333333,81.0,405.0,2.3333333333333144,OSQP,optimal
+Buckinghamshire Healthcare NHS Trust,G&A Paediatric,31.0,23.666666666666668,6.0,24.0,0.0,OSQP,optimal
+Calderdale and Huddersfield NHS Foundation Trust,Critical Care Adult,11.0,10.0,5.0,10.0,0.0,OSQP,optimal
+Calderdale and Huddersfield NHS Foundation Trust,G&A Adult,692.0,676.6666666666666,135.0,675.0,1.6666666666666288,OSQP,optimal
+Calderdale and Huddersfield NHS Foundation Trust,G&A Paediatric,42.0,27.666666666666668,7.0,28.0,0.0,OSQP,optimal
+Cambridge University Hospitals NHS Foundation Trust,Critical Care Adult,74.0,55.0,27.0,54.0,1.0,OSQP,optimal
+Cambridge University Hospitals NHS Foundation Trust,G&A Adult,988.0,912.6666666666666,183.0,915.0,0.0,OSQP,optimal
+Cambridge University Hospitals NHS Foundation Trust,G&A Paediatric,79.0,57.333333333333336,14.0,56.0,1.3333333333333357,OSQP,optimal
+Chelsea and Westminster Hospital NHS Foundation Trust,Critical Care Adult,24.0,22.666666666666668,11.0,22.0,0.6666666666666679,OSQP,optimal
+Chelsea and Westminster Hospital NHS Foundation Trust,G&A Adult,710.0,693.3333333333334,139.0,695.0,0.0,OSQP,optimal
+Chelsea and Westminster Hospital NHS Foundation Trust,G&A Paediatric,70.0,51.333333333333336,13.0,52.0,0.0,OSQP,optimal
+Chesterfield Royal Hospital NHS Foundation Trust,Critical Care Adult,15.0,12.666666666666666,6.0,12.0,0.6666666666666661,OSQP,optimal
+Chesterfield Royal Hospital NHS Foundation Trust,G&A Adult,533.0,514.3333333333334,103.0,515.0,0.0,OSQP,optimal
+Chesterfield Royal Hospital NHS Foundation Trust,G&A Paediatric,18.0,13.0,3.0,12.0,1.0,OSQP,optimal
+Countess of Chester Hospital NHS Foundation Trust,Critical Care Adult,15.0,13.0,6.0,12.0,1.0,OSQP,optimal
+Countess of Chester Hospital NHS Foundation Trust,G&A Adult,474.0,464.6666666666667,93.0,465.0,0.0,OSQP,optimal
+Countess of Chester Hospital NHS Foundation Trust,G&A Paediatric,22.0,12.666666666666666,3.0,12.0,0.6666666666666661,OSQP,optimal
+County Durham and Darlington NHS Foundation Trust,Critical Care Adult,21.0,14.0,7.0,14.0,0.0,OSQP,optimal
+County Durham and Darlington NHS Foundation Trust,G&A Adult,840.0,774.0,155.0,775.0,0.0,OSQP,optimal
+County Durham and Darlington NHS Foundation Trust,G&A Paediatric,33.0,20.666666666666668,5.0,20.0,0.6666666666666679,OSQP,optimal
+Croydon Health Services NHS Trust,Critical Care Adult,15.0,15.0,7.0,14.0,1.0,OSQP,optimal
+Croydon Health Services NHS Trust,G&A Adult,464.0,459.3333333333333,92.0,460.0,0.0,OSQP,optimal
+Croydon Health Services NHS Trust,G&A Paediatric,18.0,12.333333333333334,3.0,12.0,0.3333333333333339,OSQP,optimal
+Dartford and Gravesham NHS Trust,Critical Care Adult,12.0,11.0,6.0,12.0,0.0,OSQP,optimal
+Dartford and Gravesham NHS Trust,G&A Adult,494.0,472.0,94.0,470.0,2.0,OSQP,optimal
+Dartford and Gravesham NHS Trust,G&A Paediatric,44.0,27.333333333333332,7.0,28.0,0.0,OSQP,optimal
+Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,Critical Care Adult,26.0,21.0,10.0,20.0,1.0,OSQP,optimal
+Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,G&A Adult,720.0,694.3333333333334,139.0,695.0,0.0,OSQP,optimal
+Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,G&A Paediatric,20.0,14.0,4.0,16.0,0.0,OSQP,optimal
+Dorset County Hospital NHS Foundation Trust,Critical Care Adult,9.0,8.0,4.0,8.0,0.0,OSQP,optimal
+Dorset County Hospital NHS Foundation Trust,G&A Adult,324.0,318.3333333333333,64.0,320.0,0.0,OSQP,optimal
+Dorset County Hospital NHS Foundation Trust,G&A Paediatric,14.0,9.0,2.0,8.0,1.0,OSQP,optimal
+East Cheshire NHS Trust,Critical Care Adult,7.0,5.0,2.0,4.0,1.0,OSQP,optimal
+East Cheshire NHS Trust,G&A Adult,293.0,284.0,57.0,285.0,0.0,OSQP,optimal
+East Cheshire NHS Trust,G&A Paediatric,15.0,7.0,2.0,8.0,0.0,OSQP,optimal
+East Kent Hospitals University NHS Foundation Trust,Critical Care Adult,46.0,32.333333333333336,16.0,32.0,0.3333333333333357,OSQP,optimal
+East Kent Hospitals University NHS Foundation Trust,G&A Adult,1023.0,974.6666666666666,195.0,975.0,0.0,OSQP,optimal
+East Kent Hospitals University NHS Foundation Trust,G&A Paediatric,55.0,37.333333333333336,9.0,36.0,1.3333333333333357,OSQP,optimal
+East Lancashire Hospitals NHS Trust,Critical Care Adult,28.0,23.0,11.0,22.0,1.0,OSQP,optimal
+East Lancashire Hospitals NHS Trust,G&A Adult,732.0,705.3333333333334,141.0,705.0,0.33333333333337123,OSQP,optimal
+East Lancashire Hospitals NHS Trust,G&A Paediatric,54.0,35.0,9.0,36.0,0.0,OSQP,optimal
+East Suffolk and North Essex NHS Foundation Trust,Critical Care Adult,32.0,21.666666666666668,11.0,22.0,0.0,OSQP,optimal
+East Suffolk and North Essex NHS Foundation Trust,G&A Adult,1254.0,1181.0,236.0,1180.0,1.0,OSQP,optimal
+East Suffolk and North Essex NHS Foundation Trust,G&A Paediatric,41.0,29.666666666666668,7.0,28.0,1.6666666666666679,OSQP,optimal
+East Sussex Healthcare NHS Trust,Critical Care Adult,19.0,13.333333333333334,7.0,14.0,0.0,OSQP,optimal
+East Sussex Healthcare NHS Trust,G&A Adult,760.0,748.6666666666666,150.0,750.0,0.0,OSQP,optimal
+East Sussex Healthcare NHS Trust,G&A Paediatric,17.0,14.333333333333334,4.0,16.0,0.0,OSQP,optimal
+East and North Hertfordshire NHS Trust,Critical Care Adult,18.0,15.333333333333334,8.0,16.0,0.0,OSQP,optimal
+East and North Hertfordshire NHS Trust,G&A Adult,558.0,514.3333333333334,103.0,515.0,0.0,OSQP,optimal
+East and North Hertfordshire NHS Trust,G&A Paediatric,30.0,19.0,5.0,20.0,0.0,OSQP,optimal
+Epsom and St Helier University Hospitals NHS Trust,Critical Care Adult,21.0,16.333333333333332,8.0,16.0,0.33333333333333215,OSQP,optimal
+Epsom and St Helier University Hospitals NHS Trust,G&A Adult,637.0,539.3333333333334,108.0,540.0,0.0,OSQP,optimal
+Epsom and St Helier University Hospitals NHS Trust,G&A Paediatric,32.0,18.333333333333332,5.0,20.0,0.0,OSQP,optimal
+Frimley Health NHS Foundation Trust,Critical Care Adult,24.0,22.333333333333332,11.0,22.0,0.33333333333333215,OSQP,optimal
+Frimley Health NHS Foundation Trust,G&A Adult,1210.0,1118.6666666666667,224.0,1120.0,0.0,OSQP,optimal
+Frimley Health NHS Foundation Trust,G&A Paediatric,57.0,36.0,9.0,36.0,0.0,OSQP,optimal
+Gateshead Health NHS Foundation Trust,Critical Care Adult,12.0,8.0,4.0,8.0,0.0,OSQP,optimal
+Gateshead Health NHS Foundation Trust,G&A Adult,463.0,446.6666666666667,89.0,445.0,1.6666666666666856,OSQP,optimal
+George Eliot Hospital NHS Trust,Critical Care Adult,8.0,6.333333333333333,3.0,6.0,0.33333333333333304,OSQP,optimal
+George Eliot Hospital NHS Trust,G&A Adult,404.0,403.6666666666667,81.0,404.0,0.0,OSQP,optimal
+Gloucestershire Hospitals NHS Foundation Trust,Critical Care Adult,25.0,18.333333333333332,9.0,18.0,0.33333333333333215,OSQP,optimal
+Gloucestershire Hospitals NHS Foundation Trust,G&A Adult,797.0,742.0,148.0,740.0,2.0,OSQP,optimal
+Gloucestershire Hospitals NHS Foundation Trust,G&A Paediatric,60.0,30.666666666666668,8.0,32.0,0.0,OSQP,optimal
+Great Ormond Street Hospital for Children NHS Foundation Trust,G&A Paediatric,259.0,200.33333333333337,50.0,200.0,0.33333333333337123,OSQP,optimal
+Great Western Hospitals NHS Foundation Trust,Critical Care Adult,12.0,8.666666666666666,4.0,8.0,0.6666666666666661,OSQP,optimal
+Great Western Hospitals NHS Foundation Trust,G&A Adult,570.0,536.3333333333334,107.0,535.0,1.3333333333333712,OSQP,optimal
+Great Western Hospitals NHS Foundation Trust,G&A Paediatric,34.0,27.333333333333332,7.0,28.0,0.0,OSQP,optimal
+Guy's and St Thomas' NHS Foundation Trust,Critical Care Adult,173.0,166.0,83.0,166.0,0.0,OSQP,optimal
+Guy's and St Thomas' NHS Foundation Trust,G&A Adult,1120.0,1019.3333333333334,204.0,1020.0,0.0,OSQP,optimal
+Guy's and St Thomas' NHS Foundation Trust,G&A Paediatric,120.0,79.66666666666667,20.0,80.0,0.0,OSQP,optimal
+Hampshire Hospitals NHS Foundation Trust,Critical Care Adult,27.0,19.666666666666668,10.0,20.0,0.0,OSQP,optimal
+Hampshire Hospitals NHS Foundation Trust,G&A Adult,821.0,769.6666666666666,154.0,770.0,0.0,OSQP,optimal
+Hampshire Hospitals NHS Foundation Trust,G&A Paediatric,50.0,25.333333333333332,6.0,24.0,1.3333333333333321,OSQP,optimal
+Harrogate and District NHS Foundation Trust,Critical Care Adult,11.0,5.666666666666667,3.0,6.0,0.0,OSQP,optimal
+Harrogate and District NHS Foundation Trust,G&A Adult,289.0,278.6666666666667,56.0,280.0,0.0,OSQP,optimal
+Harrogate and District NHS Foundation Trust,G&A Paediatric,22.0,8.333333333333334,2.0,8.0,0.3333333333333339,OSQP,optimal
+Homerton Healthcare NHS Foundation Trust,Critical Care Adult,12.0,11.0,6.0,12.0,0.0,OSQP,optimal
+Homerton Healthcare NHS Foundation Trust,G&A Adult,253.0,252.66666666666663,51.0,253.0,0.0,OSQP,optimal
+Homerton Healthcare NHS Foundation Trust,G&A Paediatric,18.0,12.0,3.0,12.0,0.0,OSQP,optimal
+Hull University Teaching Hospitals NHS Trust,Critical Care Adult,44.0,35.666666666666664,18.0,36.0,0.0,OSQP,optimal
+Hull University Teaching Hospitals NHS Trust,G&A Adult,1113.0,1032.0,206.0,1030.0,2.0,OSQP,optimal
+Hull University Teaching Hospitals NHS Trust,G&A Paediatric,47.0,33.666666666666664,8.0,32.0,1.6666666666666643,OSQP,optimal
+Imperial College Healthcare NHS Trust,Critical Care Adult,94.0,86.66666666666667,43.0,86.0,0.6666666666666714,OSQP,optimal
+Imperial College Healthcare NHS Trust,G&A Adult,1008.0,952.0,190.0,950.0,2.0,OSQP,optimal
+Imperial College Healthcare NHS Trust,G&A Paediatric,33.0,31.0,8.0,32.0,0.0,OSQP,optimal
+Isle of Wight NHS Trust,Critical Care Adult,6.0,5.333333333333333,3.0,6.0,0.0,OSQP,optimal
+Isle of Wight NHS Trust,G&A Adult,299.0,282.3333333333333,56.0,280.0,2.3333333333333144,OSQP,optimal
+Isle of Wight NHS Trust,G&A Paediatric,10.0,5.666666666666667,1.0,4.0,1.666666666666667,OSQP,optimal
+James Paget University Hospitals NHS Foundation Trust,Critical Care Adult,12.0,9.333333333333334,5.0,10.0,0.0,OSQP,optimal
+James Paget University Hospitals NHS Foundation Trust,G&A Adult,458.0,442.6666666666667,89.0,445.0,0.0,OSQP,optimal
+James Paget University Hospitals NHS Foundation Trust,G&A Paediatric,28.0,18.0,4.0,16.0,2.0,OSQP,optimal
+Kettering General Hospital NHS Foundation Trust,Critical Care Adult,10.0,8.666666666666666,4.0,8.0,0.6666666666666661,OSQP,optimal
+Kettering General Hospital NHS Foundation Trust,G&A Adult,565.0,564.6666666666666,113.0,565.0,0.0,OSQP,optimal
+Kettering General Hospital NHS Foundation Trust,G&A Paediatric,22.0,19.0,5.0,20.0,0.0,OSQP,optimal
+King's College Hospital NHS Foundation Trust,Critical Care Adult,119.0,118.66666666666669,59.0,118.0,0.6666666666666856,OSQP,optimal
+King's College Hospital NHS Foundation Trust,G&A Adult,1299.0,1275.0,255.0,1275.0,0.0,OSQP,optimal
+King's College Hospital NHS Foundation Trust,G&A Paediatric,72.0,60.333333333333336,15.0,60.0,0.3333333333333357,OSQP,optimal
+Kingston Hospital NHS Foundation Trust,Critical Care Adult,15.0,12.0,6.0,12.0,0.0,OSQP,optimal
+Kingston Hospital NHS Foundation Trust,G&A Adult,390.0,359.3333333333333,72.0,360.0,0.0,OSQP,optimal
+Kingston Hospital NHS Foundation Trust,G&A Paediatric,24.0,16.0,4.0,16.0,0.0,OSQP,optimal
+Lancashire Teaching Hospitals NHS Foundation Trust,Critical Care Adult,34.0,29.0,14.0,28.0,1.0,OSQP,optimal
+Lancashire Teaching Hospitals NHS Foundation Trust,G&A Adult,799.0,795.3333333333334,159.0,795.0,0.33333333333337123,OSQP,optimal
+Lancashire Teaching Hospitals NHS Foundation Trust,G&A Paediatric,30.0,21.666666666666668,5.0,20.0,1.6666666666666679,OSQP,optimal
+Leeds Teaching Hospitals NHS Trust,Critical Care Adult,60.0,66.0,0.0,0.0,66.0,none,infeasible
+Leeds Teaching Hospitals NHS Trust,G&A Adult,1658.0,1603.6666666666667,0.0,0.0,1603.6666666666667,none,infeasible
+Leeds Teaching Hospitals NHS Trust,G&A Paediatric,141.0,127.0,0.0,0.0,127.0,none,infeasible
+Lewisham and Greenwich NHS Trust,Critical Care Adult,36.0,28.0,14.0,28.0,0.0,OSQP,optimal
+Lewisham and Greenwich NHS Trust,G&A Adult,971.0,946.0,189.0,945.0,1.0,OSQP,optimal
+Lewisham and Greenwich NHS Trust,G&A Paediatric,38.0,34.666666666666664,9.0,36.0,0.0,OSQP,optimal
+Liverpool Heart and Chest Hospital NHS Foundation Trust,Critical Care Adult,30.0,21.666666666666668,11.0,22.0,0.0,OSQP,optimal
+Liverpool Heart and Chest Hospital NHS Foundation Trust,G&A Adult,156.0,124.66666666666669,25.0,125.0,0.0,OSQP,optimal
+Liverpool University Hospitals NHS Foundation Trust,Critical Care Adult,61.0,48.666666666666664,24.0,48.0,0.6666666666666643,OSQP,optimal
+Liverpool University Hospitals NHS Foundation Trust,G&A Adult,1609.0,1566.6666666666667,313.0,1565.0,1.6666666666667425,OSQP,optimal
+Liverpool Women's NHS Foundation Trust,Critical Care Adult,2.0,1.0,0.0,0.0,1.0,OSQP,optimal
+Liverpool Women's NHS Foundation Trust,G&A Adult,24.0,14.0,3.0,15.0,0.0,OSQP,optimal
+London North West University Healthcare NHS Trust,Critical Care Adult,56.0,48.666666666666664,24.0,48.0,0.6666666666666643,OSQP,optimal
+London North West University Healthcare NHS Trust,G&A Adult,1066.0,1022.3333333333334,204.0,1020.0,2.3333333333333712,OSQP,optimal
+London North West University Healthcare NHS Trust,G&A Paediatric,24.0,18.333333333333332,5.0,20.0,0.0,OSQP,optimal
+Maidstone and Tunbridge Wells NHS Trust,Critical Care Adult,31.0,19.333333333333332,10.0,20.0,0.0,OSQP,optimal
+Maidstone and Tunbridge Wells NHS Trust,G&A Adult,681.0,592.3333333333334,118.0,590.0,2.3333333333333712,OSQP,optimal
+Maidstone and Tunbridge Wells NHS Trust,G&A Paediatric,24.0,20.666666666666668,5.0,20.0,0.6666666666666679,OSQP,optimal
+Manchester University NHS Foundation Trust,Critical Care Adult,125.0,103.0,52.0,104.0,0.0,OSQP,optimal
+Manchester University NHS Foundation Trust,G&A Adult,1976.0,1876.3333333333333,375.0,1875.0,1.3333333333332575,OSQP,optimal
+Manchester University NHS Foundation Trust,G&A Paediatric,290.0,225.0,56.0,224.0,1.0,OSQP,optimal
+Medway NHS Foundation Trust,Critical Care Adult,36.0,28.0,14.0,28.0,0.0,OSQP,optimal
+Medway NHS Foundation Trust,G&A Adult,532.0,525.0,105.0,525.0,0.0,OSQP,optimal
+Medway NHS Foundation Trust,G&A Paediatric,23.0,14.0,4.0,16.0,0.0,OSQP,optimal
+Mersey and West Lancashire Teaching Hospitals NHS Trust,Critical Care Adult,32.0,20.666666666666668,10.0,20.0,0.6666666666666679,OSQP,optimal
+Mersey and West Lancashire Teaching Hospitals NHS Trust,G&A Adult,1160.0,1156.0,231.0,1155.0,1.0,OSQP,optimal
+Mersey and West Lancashire Teaching Hospitals NHS Trust,G&A Paediatric,39.0,33.333333333333336,8.0,32.0,1.3333333333333357,OSQP,optimal
+Mid Cheshire Hospitals NHS Foundation Trust,Critical Care Adult,11.0,9.666666666666666,5.0,10.0,0.0,OSQP,optimal
+Mid Cheshire Hospitals NHS Foundation Trust,G&A Adult,497.0,472.6666666666667,95.0,475.0,0.0,OSQP,optimal
+Mid Cheshire Hospitals NHS Foundation Trust,G&A Paediatric,27.0,13.333333333333334,3.0,12.0,1.333333333333334,OSQP,optimal
+Mid Yorkshire Hospitals NHS Trust,Critical Care Adult,18.0,12.666666666666666,6.0,12.0,0.6666666666666661,OSQP,optimal
+Mid Yorkshire Hospitals NHS Trust,G&A Adult,1028.0,972.3333333333334,194.0,970.0,2.3333333333333712,OSQP,optimal
+Mid Yorkshire Hospitals NHS Trust,G&A Paediatric,47.0,15.666666666666666,4.0,16.0,0.0,OSQP,optimal
+Mid and South Essex NHS Foundation Trust,Critical Care Adult,80.0,69.33333333333333,35.0,70.0,0.0,OSQP,optimal
+Mid and South Essex NHS Foundation Trust,G&A Adult,1692.0,1635.3333333333333,327.0,1635.0,0.33333333333325754,OSQP,optimal
+Mid and South Essex NHS Foundation Trust,G&A Paediatric,75.0,45.333333333333336,11.0,44.0,1.3333333333333357,OSQP,optimal
+Milton Keynes University Hospital NHS Foundation Trust,Critical Care Adult,10.0,5.0,2.0,4.0,1.0,OSQP,optimal
+Milton Keynes University Hospital NHS Foundation Trust,G&A Adult,517.0,468.3333333333333,94.0,470.0,0.0,OSQP,optimal
+Milton Keynes University Hospital NHS Foundation Trust,G&A Paediatric,49.0,26.666666666666668,7.0,28.0,0.0,OSQP,optimal
+Moorfields Eye Hospital NHS Foundation Trust,G&A Adult,10.0,3.0,1.0,5.0,0.0,OSQP,optimal
+Norfolk and Norwich University Hospitals NHS Foundation Trust,Critical Care Adult,42.0,34.0,17.0,34.0,0.0,OSQP,optimal
+Norfolk and Norwich University Hospitals NHS Foundation Trust,G&A Adult,911.0,910.3333333333334,182.0,910.0,0.33333333333337123,OSQP,optimal
+Norfolk and Norwich University Hospitals NHS Foundation Trust,G&A Paediatric,27.0,16.0,4.0,16.0,0.0,OSQP,optimal
+North Bristol NHS Trust,Critical Care Adult,46.0,38.333333333333336,19.0,38.0,0.3333333333333357,OSQP,optimal
+North Bristol NHS Trust,G&A Adult,946.0,903.3333333333334,181.0,905.0,0.0,OSQP,optimal
+North Cumbria Integrated Care NHS Foundation Trust,Critical Care Adult,15.0,11.333333333333334,6.0,12.0,0.0,OSQP,optimal
+North Cumbria Integrated Care NHS Foundation Trust,G&A Adult,562.0,530.3333333333334,106.0,530.0,0.33333333333337123,OSQP,optimal
+North Cumbria Integrated Care NHS Foundation Trust,G&A Paediatric,47.0,16.0,4.0,16.0,0.0,OSQP,optimal
+North Tees and Hartlepool NHS Foundation Trust,Critical Care Adult,16.0,12.666666666666666,6.0,12.0,0.6666666666666661,OSQP,optimal
+North Tees and Hartlepool NHS Foundation Trust,G&A Adult,515.0,493.6666666666667,99.0,495.0,0.0,OSQP,optimal
+North Tees and Hartlepool NHS Foundation Trust,G&A Paediatric,26.0,14.333333333333334,4.0,16.0,0.0,OSQP,optimal
+North West Anglia NHS Foundation Trust,Critical Care Adult,22.0,18.0,9.0,18.0,0.0,OSQP,optimal
+North West Anglia NHS Foundation Trust,G&A Adult,947.0,934.6666666666666,187.0,935.0,0.0,OSQP,optimal
+North West Anglia NHS Foundation Trust,G&A Paediatric,43.0,35.666666666666664,9.0,36.0,0.0,OSQP,optimal
+Northampton General Hospital NHS Trust,Critical Care Adult,16.0,11.333333333333334,6.0,12.0,0.0,OSQP,optimal
+Northampton General Hospital NHS Trust,G&A Adult,620.0,613.6666666666666,123.0,615.0,0.0,OSQP,optimal
+Northampton General Hospital NHS Trust,G&A Paediatric,65.0,39.666666666666664,10.0,40.0,0.0,OSQP,optimal
+Northern Care Alliance NHS Ft,Critical Care Adult,68.0,55.0,27.0,54.0,1.0,OSQP,optimal
+Northern Care Alliance NHS Ft,G&A Adult,1526.0,1374.6666666666667,275.0,1375.0,0.0,OSQP,optimal
+Northern Care Alliance NHS Ft,G&A Paediatric,28.0,19.333333333333332,5.0,20.0,0.0,OSQP,optimal
+Northern Lincolnshire and Goole NHS Foundation Trust,Critical Care Adult,14.0,13.0,6.0,12.0,1.0,OSQP,optimal
+Northern Lincolnshire and Goole NHS Foundation Trust,G&A Adult,588.0,564.3333333333334,113.0,565.0,0.0,OSQP,optimal
+Northern Lincolnshire and Goole NHS Foundation Trust,G&A Paediatric,36.0,20.333333333333332,5.0,20.0,0.33333333333333215,OSQP,optimal
+Northumbria Healthcare NHS Foundation Trust,Critical Care Adult,15.0,12.333333333333334,6.0,12.0,0.3333333333333339,OSQP,optimal
+Northumbria Healthcare NHS Foundation Trust,G&A Adult,826.0,799.3333333333334,160.0,800.0,0.0,OSQP,optimal
+Northumbria Healthcare NHS Foundation Trust,G&A Paediatric,18.0,10.0,2.0,8.0,2.0,OSQP,optimal
+Nottingham University Hospitals NHS Trust,Critical Care Adult,66.0,51.666666666666664,26.0,52.0,0.0,OSQP,optimal
+Nottingham University Hospitals NHS Trust,G&A Adult,1604.0,1509.6666666666667,302.0,1510.0,0.0,OSQP,optimal
+Nottingham University Hospitals NHS Trust,G&A Paediatric,114.0,89.0,22.0,88.0,1.0,OSQP,optimal
+Oxford University Hospitals NHS Foundation Trust,Critical Care Adult,59.0,42.0,21.0,42.0,0.0,OSQP,optimal
+Oxford University Hospitals NHS Foundation Trust,G&A Adult,961.0,904.6666666666666,181.0,905.0,0.0,OSQP,optimal
+Oxford University Hospitals NHS Foundation Trust,G&A Paediatric,84.0,71.33333333333333,18.0,72.0,0.0,OSQP,optimal
+Portsmouth Hospitals University National Health Service Trust,Critical Care Adult,21.0,20.333333333333332,10.0,20.0,0.33333333333333215,OSQP,optimal
+Portsmouth Hospitals University National Health Service Trust,G&A Adult,1099.0,1085.0,217.0,1085.0,0.0,OSQP,optimal
+Portsmouth Hospitals University National Health Service Trust,G&A Paediatric,30.0,17.0,4.0,16.0,1.0,OSQP,optimal
+Queen Victoria Hospital NHS Foundation Trust,Critical Care Adult,4.0,2.0,1.0,2.0,0.0,OSQP,optimal
+Queen Victoria Hospital NHS Foundation Trust,G&A Adult,53.0,25.666666666666668,5.0,25.0,0.6666666666666679,OSQP,optimal
+Queen Victoria Hospital NHS Foundation Trust,G&A Paediatric,2.0,0.0,0.0,0.0,0.0,OSQP,optimal
+Royal Berkshire NHS Foundation Trust,Critical Care Adult,19.0,17.666666666666668,9.0,18.0,0.0,OSQP,optimal
+Royal Berkshire NHS Foundation Trust,G&A Adult,518.0,496.6666666666667,99.0,495.0,1.6666666666666856,OSQP,optimal
+Royal Berkshire NHS Foundation Trust,G&A Paediatric,59.0,44.0,11.0,44.0,0.0,OSQP,optimal
+Royal Cornwall Hospitals NHS Trust,Critical Care Adult,17.0,13.333333333333334,7.0,14.0,0.0,OSQP,optimal
+Royal Cornwall Hospitals NHS Trust,G&A Adult,628.0,612.6666666666666,123.0,615.0,0.0,OSQP,optimal
+Royal Cornwall Hospitals NHS Trust,G&A Paediatric,37.0,19.0,5.0,20.0,0.0,OSQP,optimal
+Royal Devon University Healthcare NHS Foundation Trust,Critical Care Adult,37.0,19.0,9.0,18.0,1.0,OSQP,optimal
+Royal Devon University Healthcare NHS Foundation Trust,G&A Adult,1096.0,1016.0,203.0,1015.0,1.0,OSQP,optimal
+Royal Devon University Healthcare NHS Foundation Trust,G&A Paediatric,49.0,23.333333333333332,6.0,24.0,0.0,OSQP,optimal
+Royal Free London NHS Foundation Trust,Critical Care Adult,89.0,81.33333333333333,41.0,82.0,0.0,OSQP,optimal
+Royal Free London NHS Foundation Trust,G&A Adult,1427.0,1371.3333333333333,274.0,1370.0,1.3333333333332575,OSQP,optimal
+Royal Free London NHS Foundation Trust,G&A Paediatric,58.0,47.666666666666664,12.0,48.0,0.0,OSQP,optimal
+Royal National Orthopaedic Hospital NHS Trust,Critical Care Adult,10.0,4.666666666666667,2.0,4.0,0.666666666666667,OSQP,optimal
+Royal National Orthopaedic Hospital NHS Trust,G&A Adult,145.0,118.33333333333331,24.0,120.0,0.0,OSQP,optimal
+Royal National Orthopaedic Hospital NHS Trust,G&A Paediatric,27.0,17.666666666666668,4.0,16.0,1.6666666666666679,OSQP,optimal
+Royal Papworth Hospital NHS Foundation Trust,Critical Care Adult,35.0,31.0,16.0,32.0,0.0,OSQP,optimal
+Royal Papworth Hospital NHS Foundation Trust,G&A Adult,183.0,172.33333333333334,34.0,170.0,2.333333333333343,OSQP,optimal
+Royal Surrey County Hospital NHS Foundation Trust,Critical Care Adult,17.0,16.666666666666668,8.0,16.0,0.6666666666666679,OSQP,optimal
+Royal Surrey County Hospital NHS Foundation Trust,G&A Adult,453.0,446.3333333333333,89.0,445.0,1.3333333333333144,OSQP,optimal
+Royal Surrey County Hospital NHS Foundation Trust,G&A Paediatric,22.0,16.0,4.0,16.0,0.0,OSQP,optimal
+Royal United Hospitals Bath NHS Foundation Trust,Critical Care Adult,14.0,10.666666666666666,5.0,10.0,0.6666666666666661,OSQP,optimal
+Royal United Hospitals Bath NHS Foundation Trust,G&A Adult,494.0,483.6666666666667,97.0,485.0,0.0,OSQP,optimal
+Royal United Hospitals Bath NHS Foundation Trust,G&A Paediatric,23.0,16.666666666666668,4.0,16.0,0.6666666666666679,OSQP,optimal
+Salisbury NHS Foundation Trust,Critical Care Adult,10.0,7.333333333333333,4.0,8.0,0.0,OSQP,optimal
+Salisbury NHS Foundation Trust,G&A Adult,460.0,452.3333333333333,90.0,450.0,2.3333333333333144,OSQP,optimal
+Salisbury NHS Foundation Trust,G&A Paediatric,16.0,10.333333333333334,3.0,12.0,0.0,OSQP,optimal
+Sandwell and West Birmingham Hospitals NHS Trust,Critical Care Adult,14.0,16.333333333333332,0.0,0.0,16.333333333333332,none,infeasible
+Sandwell and West Birmingham Hospitals NHS Trust,G&A Adult,546.0,508.3333333333333,0.0,0.0,508.3333333333333,none,infeasible
+Sandwell and West Birmingham Hospitals NHS Trust,G&A Paediatric,38.0,18.333333333333332,0.0,0.0,18.333333333333332,none,infeasible
+Sheffield Children's NHS Foundation Trust,G&A Paediatric,155.0,98.0,24.0,96.0,2.0,OSQP,optimal
+Sheffield Teaching Hospitals NHS Foundation Trust,Critical Care Adult,121.0,73.33333333333333,37.0,74.0,0.0,OSQP,optimal
+Sheffield Teaching Hospitals NHS Foundation Trust,G&A Adult,1497.0,1428.6666666666667,286.0,1430.0,0.0,OSQP,optimal
+Sherwood Forest Hospitals NHS Foundation Trust,Critical Care Adult,12.0,11.333333333333334,6.0,12.0,0.0,OSQP,optimal
+Sherwood Forest Hospitals NHS Foundation Trust,G&A Adult,658.0,651.0,130.0,650.0,1.0,OSQP,optimal
+Sherwood Forest Hospitals NHS Foundation Trust,G&A Paediatric,26.0,17.666666666666668,4.0,16.0,1.6666666666666679,OSQP,optimal
+Somerset NHS Foundation Trust,Critical Care Adult,27.0,21.333333333333332,11.0,22.0,0.0,OSQP,optimal
+Somerset NHS Foundation Trust,G&A Adult,954.0,928.0,186.0,930.0,0.0,OSQP,optimal
+Somerset NHS Foundation Trust,G&A Paediatric,68.0,40.0,10.0,40.0,0.0,OSQP,optimal
+South Tees Hospitals NHS Foundation Trust,Critical Care Adult,59.0,50.333333333333336,25.0,50.0,0.3333333333333357,OSQP,optimal
+South Tees Hospitals NHS Foundation Trust,G&A Adult,872.0,836.3333333333334,167.0,835.0,1.3333333333333712,OSQP,optimal
+South Tees Hospitals NHS Foundation Trust,G&A Paediatric,66.0,38.333333333333336,10.0,40.0,0.0,OSQP,optimal
+South Tyneside and Sunderland NHS Foundation Trust,Critical Care Adult,22.0,15.333333333333334,8.0,16.0,0.0,OSQP,optimal
+South Tyneside and Sunderland NHS Foundation Trust,G&A Adult,1074.0,1003.3333333333334,201.0,1005.0,0.0,OSQP,optimal
+South Tyneside and Sunderland NHS Foundation Trust,G&A Paediatric,48.0,27.0,7.0,28.0,0.0,OSQP,optimal
+South Warwickshire NHS Foundation Trust,Critical Care Adult,7.0,6.0,3.0,6.0,0.0,OSQP,optimal
+South Warwickshire NHS Foundation Trust,G&A Adult,401.0,375.3333333333333,75.0,375.0,0.3333333333333144,OSQP,optimal
+South Warwickshire NHS Foundation Trust,G&A Paediatric,17.0,13.0,3.0,12.0,1.0,OSQP,optimal
+St George's University Hospitals NHS Foundation Trust,Critical Care Adult,53.0,51.333333333333336,26.0,52.0,0.0,OSQP,optimal
+St George's University Hospitals NHS Foundation Trust,G&A Adult,787.0,747.6666666666666,150.0,750.0,0.0,OSQP,optimal
+St George's University Hospitals NHS Foundation Trust,G&A Paediatric,51.0,42.333333333333336,11.0,44.0,0.0,OSQP,optimal
+Stockport NHS Foundation Trust,Critical Care Adult,13.0,10.0,5.0,10.0,0.0,OSQP,optimal
+Stockport NHS Foundation Trust,G&A Adult,609.0,587.3333333333334,117.0,585.0,2.3333333333333712,OSQP,optimal
+Stockport NHS Foundation Trust,G&A Paediatric,23.0,14.333333333333334,4.0,16.0,0.0,OSQP,optimal
+Surrey and Sussex Healthcare NHS Trust,Critical Care Adult,16.0,14.333333333333334,7.0,14.0,0.3333333333333339,OSQP,optimal
+Surrey and Sussex Healthcare NHS Trust,G&A Adult,651.0,629.6666666666666,126.0,630.0,0.0,OSQP,optimal
+Surrey and Sussex Healthcare NHS Trust,G&A Paediatric,29.0,25.0,6.0,24.0,1.0,OSQP,optimal
+Tameside and Glossop Integrated Care NHS Foundation Trust,Critical Care Adult,8.0,8.0,4.0,8.0,0.0,OSQP,optimal
+Tameside and Glossop Integrated Care NHS Foundation Trust,G&A Adult,377.0,405.3333333333333,75.0,375.0,30.333333333333314,OSQP,optimal
+Tameside and Glossop Integrated Care NHS Foundation Trust,G&A Paediatric,36.0,23.0,6.0,24.0,0.0,OSQP,optimal
+The Christie NHS Foundation Trust,Critical Care Adult,8.0,5.0,2.0,4.0,1.0,OSQP,optimal
+The Christie NHS Foundation Trust,G&A Adult,177.0,161.66666666666666,32.0,160.0,1.6666666666666572,OSQP,optimal
+The Clatterbridge Cancer Centre NHS Foundation Trust,G&A Adult,101.0,92.33333333333331,18.0,90.0,2.3333333333333144,OSQP,optimal
+The Dudley Group NHS Foundation Trust,Critical Care Adult,29.0,24.333333333333332,12.0,24.0,0.33333333333333215,OSQP,optimal
+The Dudley Group NHS Foundation Trust,G&A Adult,633.0,631.3333333333334,126.0,630.0,1.3333333333333712,OSQP,optimal
+The Dudley Group NHS Foundation Trust,G&A Paediatric,33.0,18.0,4.0,16.0,2.0,OSQP,optimal
+The Hillingdon Hospitals NHS Foundation Trust,Critical Care Adult,12.0,9.666666666666666,5.0,10.0,0.0,OSQP,optimal
+The Hillingdon Hospitals NHS Foundation Trust,G&A Adult,369.0,352.6666666666667,71.0,355.0,0.0,OSQP,optimal
+The Hillingdon Hospitals NHS Foundation Trust,G&A Paediatric,24.0,16.666666666666668,4.0,16.0,0.6666666666666679,OSQP,optimal
+The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Critical Care Adult,85.0,63.333333333333336,32.0,64.0,0.0,OSQP,optimal
+The Newcastle Upon Tyne Hospitals NHS Foundation Trust,G&A Adult,1268.0,1163.3333333333333,233.0,1165.0,0.0,OSQP,optimal
+The Newcastle Upon Tyne Hospitals NHS Foundation Trust,G&A Paediatric,168.0,137.66666666666666,34.0,136.0,1.6666666666666572,OSQP,optimal
+The Princess Alexandra Hospital NHS Trust,Critical Care Adult,10.0,8.0,4.0,8.0,0.0,OSQP,optimal
+The Princess Alexandra Hospital NHS Trust,G&A Adult,435.0,443.3333333333333,87.0,435.0,8.333333333333314,OSQP,optimal
+The Princess Alexandra Hospital NHS Trust,G&A Paediatric,18.0,11.666666666666666,3.0,12.0,0.0,OSQP,optimal
+"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",Critical Care Adult,13.0,9.333333333333334,5.0,10.0,0.0,OSQP,optimal
+"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",G&A Adult,490.0,471.3333333333333,94.0,470.0,1.3333333333333144,OSQP,optimal
+"The Queen Elizabeth Hospital, King's Lynn, NHS Foundation Trust",G&A Paediatric,20.0,14.0,4.0,16.0,0.0,OSQP,optimal
+The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,Critical Care Adult,4.0,2.6666666666666665,1.0,2.0,0.6666666666666665,OSQP,optimal
+The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,G&A Adult,133.0,103.66666666666669,21.0,105.0,0.0,OSQP,optimal
+The Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,G&A Paediatric,9.0,2.6666666666666665,1.0,4.0,0.0,OSQP,optimal
+The Rotherham NHS Foundation Trust,Critical Care Adult,14.0,10.0,5.0,10.0,0.0,OSQP,optimal
+The Rotherham NHS Foundation Trust,G&A Adult,451.0,432.0,86.0,430.0,2.0,OSQP,optimal
+The Rotherham NHS Foundation Trust,G&A Paediatric,22.0,13.0,3.0,12.0,1.0,OSQP,optimal
+The Royal Marsden NHS Foundation Trust,Critical Care Adult,16.0,12.0,6.0,12.0,0.0,OSQP,optimal
+The Royal Marsden NHS Foundation Trust,G&A Adult,195.0,161.66666666666666,32.0,160.0,1.6666666666666572,OSQP,optimal
+The Royal Marsden NHS Foundation Trust,G&A Paediatric,18.0,12.0,3.0,12.0,0.0,OSQP,optimal
+The Royal Orthopaedic Hospital NHS Foundation Trust,Critical Care Adult,6.0,3.6666666666666665,2.0,4.0,0.0,OSQP,optimal
+The Royal Orthopaedic Hospital NHS Foundation Trust,G&A Adult,89.0,70.0,14.0,70.0,0.0,OSQP,optimal
+The Royal Wolverhampton NHS Trust,Critical Care Adult,28.0,21.666666666666668,11.0,22.0,0.0,OSQP,optimal
+The Royal Wolverhampton NHS Trust,G&A Adult,804.0,767.3333333333334,153.0,765.0,2.3333333333333712,OSQP,optimal
+The Royal Wolverhampton NHS Trust,G&A Paediatric,26.0,23.0,6.0,24.0,0.0,OSQP,optimal
+The Shrewsbury and Telford Hospital NHS Trust,Critical Care Adult,25.0,13.333333333333334,7.0,14.0,0.0,OSQP,optimal
+The Shrewsbury and Telford Hospital NHS Trust,G&A Adult,788.0,760.0,152.0,760.0,0.0,OSQP,optimal
+The Shrewsbury and Telford Hospital NHS Trust,G&A Paediatric,31.0,24.0,6.0,24.0,0.0,OSQP,optimal
+The Walton Centre NHS Foundation Trust,Critical Care Adult,20.0,14.333333333333334,7.0,14.0,0.3333333333333339,OSQP,optimal
+The Walton Centre NHS Foundation Trust,G&A Adult,152.0,134.66666666666666,27.0,135.0,0.0,OSQP,optimal
+Torbay and South Devon NHS Foundation Trust,Critical Care Adult,10.0,5.666666666666667,3.0,6.0,0.0,OSQP,optimal
+Torbay and South Devon NHS Foundation Trust,G&A Adult,377.0,373.6666666666667,75.0,375.0,0.0,OSQP,optimal
+Torbay and South Devon NHS Foundation Trust,G&A Paediatric,20.0,11.666666666666666,3.0,12.0,0.0,OSQP,optimal
+United Lincolnshire Hospitals NHS Trust,Critical Care Adult,25.0,17.333333333333332,9.0,18.0,0.0,OSQP,optimal
+United Lincolnshire Hospitals NHS Trust,G&A Adult,1003.0,945.3333333333334,189.0,945.0,0.33333333333337123,OSQP,optimal
+United Lincolnshire Hospitals NHS Trust,G&A Paediatric,40.0,25.666666666666668,6.0,24.0,1.6666666666666679,OSQP,optimal
+University College London Hospitals NHS Foundation Trust,Critical Care Adult,69.0,54.666666666666664,27.0,54.0,0.6666666666666643,OSQP,optimal
+University College London Hospitals NHS Foundation Trust,G&A Adult,698.0,618.3333333333334,124.0,620.0,0.0,OSQP,optimal
+University College London Hospitals NHS Foundation Trust,G&A Paediatric,65.0,41.0,10.0,40.0,1.0,OSQP,optimal
+University Hospital Southampton NHS Foundation Trust,Critical Care Adult,99.0,80.66666666666667,40.0,80.0,0.6666666666666714,OSQP,optimal
+University Hospital Southampton NHS Foundation Trust,G&A Adult,1010.0,963.6666666666666,193.0,965.0,0.0,OSQP,optimal
+University Hospital Southampton NHS Foundation Trust,G&A Paediatric,95.0,74.66666666666667,19.0,76.0,0.0,OSQP,optimal
+University Hospitals Birmingham NHS Foundation Trust,Critical Care Adult,92.0,95.0,46.0,92.0,3.0,OSQP,optimal
+University Hospitals Birmingham NHS Foundation Trust,G&A Adult,2396.0,2350.0,470.0,2350.0,0.0,OSQP,optimal
+University Hospitals Birmingham NHS Foundation Trust,G&A Paediatric,78.0,67.0,17.0,68.0,0.0,OSQP,optimal
+University Hospitals Bristol and Weston NHS Foundation Trust,Critical Care Adult,55.0,52.0,26.0,52.0,0.0,OSQP,optimal
+University Hospitals Bristol and Weston NHS Foundation Trust,G&A Adult,891.0,834.3333333333334,167.0,835.0,0.0,OSQP,optimal
+University Hospitals Bristol and Weston NHS Foundation Trust,G&A Paediatric,143.0,117.66666666666669,29.0,116.0,1.6666666666666856,OSQP,optimal
+University Hospitals Coventry and Warwickshire NHS Trust,Critical Care Adult,44.0,36.666666666666664,18.0,36.0,0.6666666666666643,OSQP,optimal
+University Hospitals Coventry and Warwickshire NHS Trust,G&A Adult,1029.0,1014.0,203.0,1015.0,0.0,OSQP,optimal
+University Hospitals Coventry and Warwickshire NHS Trust,G&A Paediatric,59.0,43.0,11.0,44.0,0.0,OSQP,optimal
+University Hospitals Dorset NHS Foundation Trust,Critical Care Adult,22.0,17.333333333333332,9.0,18.0,0.0,OSQP,optimal
+University Hospitals Dorset NHS Foundation Trust,G&A Adult,1102.0,1029.0,206.0,1030.0,0.0,OSQP,optimal
+University Hospitals Dorset NHS Foundation Trust,G&A Paediatric,26.0,16.0,4.0,16.0,0.0,OSQP,optimal
+University Hospitals Plymouth NHS Trust,Critical Care Adult,46.0,29.333333333333332,15.0,30.0,0.0,OSQP,optimal
+University Hospitals Plymouth NHS Trust,G&A Adult,1017.0,966.3333333333334,193.0,965.0,1.3333333333333712,OSQP,optimal
+University Hospitals Plymouth NHS Trust,G&A Paediatric,63.0,22.0,6.0,24.0,0.0,OSQP,optimal
+University Hospitals Sussex NHS Foundation Trust,Critical Care Adult,62.0,58.666666666666664,29.0,58.0,0.6666666666666643,OSQP,optimal
+University Hospitals Sussex NHS Foundation Trust,G&A Adult,1752.0,1646.6666666666667,329.0,1645.0,1.6666666666667425,OSQP,optimal
+University Hospitals Sussex NHS Foundation Trust,G&A Paediatric,87.0,72.33333333333333,18.0,72.0,0.3333333333333286,OSQP,optimal
+University Hospitals of Derby and Burton NHS Foundation Trust,Critical Care Adult,52.0,44.666666666666664,22.0,44.0,0.6666666666666643,OSQP,optimal
+University Hospitals of Derby and Burton NHS Foundation Trust,G&A Adult,1437.0,1352.0,270.0,1350.0,2.0,OSQP,optimal
+University Hospitals of Derby and Burton NHS Foundation Trust,G&A Paediatric,40.0,24.666666666666668,6.0,24.0,0.6666666666666679,OSQP,optimal
+University Hospitals of Leicester NHS Trust,Critical Care Adult,86.0,55.333333333333336,28.0,56.0,0.0,OSQP,optimal
+University Hospitals of Leicester NHS Trust,G&A Adult,1679.0,1512.0,302.0,1510.0,2.0,OSQP,optimal
+University Hospitals of Leicester NHS Trust,G&A Paediatric,119.0,85.66666666666667,21.0,84.0,1.6666666666666714,OSQP,optimal
+University Hospitals of Morecambe Bay NHS Foundation Trust,Critical Care Adult,14.0,9.666666666666666,5.0,10.0,0.0,OSQP,optimal
+University Hospitals of Morecambe Bay NHS Foundation Trust,G&A Adult,560.0,534.3333333333334,107.0,535.0,0.0,OSQP,optimal
+University Hospitals of Morecambe Bay NHS Foundation Trust,G&A Paediatric,33.0,14.666666666666666,4.0,16.0,0.0,OSQP,optimal
+University Hospitals of North Midlands NHS Trust,Critical Care Adult,66.0,56.666666666666664,28.0,56.0,0.6666666666666643,OSQP,optimal
+University Hospitals of North Midlands NHS Trust,G&A Adult,1336.0,1236.0,247.0,1235.0,1.0,OSQP,optimal
+University Hospitals of North Midlands NHS Trust,G&A Paediatric,66.0,46.333333333333336,12.0,48.0,0.0,OSQP,optimal
+Walsall Healthcare NHS Trust,Critical Care Adult,13.0,10.333333333333334,5.0,10.0,0.3333333333333339,OSQP,optimal
+Walsall Healthcare NHS Trust,G&A Adult,503.0,515.6666666666666,101.0,503.0,12.666666666666629,OSQP,optimal
+Walsall Healthcare NHS Trust,G&A Paediatric,45.0,29.666666666666668,7.0,28.0,1.6666666666666679,OSQP,optimal
+Warrington and Halton Teaching Hospitals NHS Foundation Trust,Critical Care Adult,17.0,15.0,7.0,14.0,1.0,OSQP,optimal
+Warrington and Halton Teaching Hospitals NHS Foundation Trust,G&A Adult,546.0,525.0,105.0,525.0,0.0,OSQP,optimal
+Warrington and Halton Teaching Hospitals NHS Foundation Trust,G&A Paediatric,40.0,20.0,5.0,20.0,0.0,OSQP,optimal
+West Hertfordshire Teaching Hospitals NHS Trust,Critical Care Adult,19.0,13.0,6.0,12.0,1.0,OSQP,optimal
+West Hertfordshire Teaching Hospitals NHS Trust,G&A Adult,586.0,537.3333333333334,107.0,535.0,2.3333333333333712,OSQP,optimal
+West Hertfordshire Teaching Hospitals NHS Trust,G&A Paediatric,38.0,20.333333333333332,5.0,20.0,0.33333333333333215,OSQP,optimal
+West Suffolk NHS Foundation Trust,Critical Care Adult,16.0,14.0,7.0,14.0,0.0,OSQP,optimal
+West Suffolk NHS Foundation Trust,G&A Adult,455.0,433.6666666666667,87.0,435.0,0.0,OSQP,optimal
+West Suffolk NHS Foundation Trust,G&A Paediatric,15.0,11.666666666666666,3.0,12.0,0.0,OSQP,optimal
+Whittington Health NHS Trust,Critical Care Adult,11.0,10.666666666666666,5.0,10.0,0.6666666666666661,OSQP,optimal
+Whittington Health NHS Trust,G&A Adult,249.0,249.0,50.0,249.0,0.0,OSQP,optimal
+Whittington Health NHS Trust,G&A Paediatric,17.0,14.666666666666666,4.0,16.0,0.0,OSQP,optimal
+Wirral University Teaching Hospital NHS Foundation Trust,Critical Care Adult,18.0,11.666666666666666,6.0,12.0,0.0,OSQP,optimal
+Wirral University Teaching Hospital NHS Foundation Trust,G&A Adult,752.0,687.6666666666666,138.0,690.0,0.0,OSQP,optimal
+Wirral University Teaching Hospital NHS Foundation Trust,G&A Paediatric,19.0,12.0,3.0,12.0,0.0,OSQP,optimal
+Worcestershire Acute Hospitals NHS Trust,Critical Care Adult,15.0,13.333333333333334,7.0,14.0,0.0,OSQP,optimal
+Worcestershire Acute Hospitals NHS Trust,G&A Adult,671.0,788.0,134.0,670.0,118.0,OSQP,optimal
+Worcestershire Acute Hospitals NHS Trust,G&A Paediatric,25.0,21.333333333333332,5.0,20.0,1.3333333333333321,OSQP,optimal
+"Wrightington, Wigan and Leigh NHS Foundation Trust",Critical Care Adult,11.0,7.0,3.0,6.0,1.0,OSQP,optimal
+"Wrightington, Wigan and Leigh NHS Foundation Trust",G&A Adult,440.0,424.6666666666667,85.0,425.0,0.0,OSQP,optimal
+Wye Valley NHS Trust,Critical Care Adult,8.0,5.333333333333333,3.0,6.0,0.0,OSQP,optimal
+Wye Valley NHS Trust,G&A Adult,336.0,317.0,63.0,315.0,2.0,OSQP,optimal
+Wye Valley NHS Trust,G&A Paediatric,15.0,13.333333333333334,3.0,12.0,1.333333333333334,OSQP,optimal
+York and Scarborough Teaching Hospitals NHS Foundation Trust,Critical Care Adult,31.0,13.333333333333334,7.0,14.0,0.0,OSQP,optimal
+York and Scarborough Teaching Hospitals NHS Foundation Trust,G&A Adult,840.0,810.0,162.0,810.0,0.0,OSQP,optimal
+York and Scarborough Teaching Hospitals NHS Foundation Trust,G&A Paediatric,40.0,18.666666666666668,5.0,20.0,0.0,OSQP,optimal
